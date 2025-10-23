@@ -1,7 +1,7 @@
 # Pizza-Sales-Analysis
 This project analyzes pizza sales data to uncover insights into customer preferences, sales trends, and product performance. It includes detailed analytics on order quantities, pizza sizes, total revenue, and category-wise performance to support data-driven business decisions.
 
-** Key Features:**
+**Key Features:**
 
 📊 Sales Dashboard: Visualizes total sales, popular pizzas, and category-wise revenue.
 
